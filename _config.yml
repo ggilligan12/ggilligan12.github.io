@@ -1,6 +1,6 @@
 # site settings
 title: gilly.tech
-subtitle:
+subtitle: George Gilligan Personal Website
 email: youremailaddress@gmail.com
 description: Final year Computer Science and Maths undergrad<br />Hackathon, CtF and Cryptanalysis enthusiast<br />Cycling and green tea junkie
 baseurl: "" # the subpath of your site, e.g. /blog
