@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Hackathons
+description:
+image: assets/images/laptop_stickers.jpg
 nav-menu: true
 ---
 
