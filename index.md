@@ -7,5 +7,4 @@ image: null
 author: null
 show_tile: false
 ---
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+This static website was brought to life by Jekyll, a Ruby gem that creates an executable environment through which editing and maintaining a page is as simple as filling in text boxes and uploading pictures. The theme is called 'Forty', and was designed by HTML5 UP. Integration of the theme with Jekyll was provided by Andrew Banchich and hosting is provided by GitHub pages.
