@@ -1,8 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+title: Random Nonsense
+layout: post
+image: assets/images/edinburgh_sunrise.jpg
 nav-menu: true
 ---
 
