@@ -65,20 +65,3 @@ img {
 		}
 	}
 
-/* Hacky shit added by g to get a pdf render in an iframe properly */
-
-.iframe-container {
-  overflow: hidden;
-  // Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625)
-  padding-top: 130.4%; // ~A4 Paper
-  position: relative;
-}
- 
-.iframe-container iframe {
-   border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;
-}
