@@ -2,9 +2,9 @@
 layout: home
 title: Home
 landing-title: "Hi, I'm under construction"
-description1: Computer Science and Maths Finalist
-description2: Hackathon, CtF and Cryptanalysis enthusiast
-description3: Cycling and green tea junkie
+description1: COMPUTER SCIENCE & MATHS FINALIST
+description2: HACKATHON, CTF AND CRYPTANALYSIS ENTHUSIAST
+description3: CYCLING AND GREEN TEA JUNKIE
 image: null
 author: null
 show_tile: false
