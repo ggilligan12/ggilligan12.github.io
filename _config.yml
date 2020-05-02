@@ -2,7 +2,7 @@
 title: gilly.tech
 subtitle:
 email: ggilligan12@gmail.com
-description: Final year Computer Science and Maths undergrad<br />Hackathon, CtF and Cryptanalysis enthusiast<br />Cycling and green tea junkie
+description: #Final year Computer Science and Maths undergrad<br />Hackathon, CtF and Cryptanalysis enthusiast<br />Cycling and green tea junkie
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gilly.tech"# the base hostname & protocol for your site
 author:

@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: "Hi, I'm under construction"
-description: null
+description: Final year Computer Science and Maths undergrad<br/>Hackathon, CtF and Cryptanalysis enthusiast<br/>Cycling and green tea junkie
 image: null
 author: null
 show_tile: false
