@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: George Gilligan
 description1: computer science & maths finalist
-description2: hackathon, CTF and cryptanalysis enthusiast
+description2: hackathon, CTF & cryptanalysis enthusiast
 description3: cycling and green tea junkie
 description4: n.b. this site is under construction
 image: null
