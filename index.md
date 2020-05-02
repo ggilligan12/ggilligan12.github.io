@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: "Hi, I'm under construction"
-description1: COMPUTER SCIENCE & MATHS FINALIST
-description2: HACKATHON, CTF AND CRYPTANALYSIS ENTHUSIAST
-description3: CYCLING AND GREEN TEA JUNKIE
+landing-title: George Gilligan (under construction)
+description1: computer science & maths finalist
+description2: hackathon, CTF and cryptanalysis enthusiast
+description3: cycling and green tea junkie
 image: null
 author: null
 show_tile: false
