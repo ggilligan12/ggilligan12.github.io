@@ -1,5 +1,5 @@
 ---
-title: "pi v1: Python"
+title: "pi.py"
 image: "assets/images/monte-carlo.png"
 ---
 
@@ -31,6 +31,6 @@ $${%endraw%}
 Thanks to some nice vectorisation from<code>numpy</code>this can be written very succinctly:
 <pre><code>from numpy import floor as f, random as r
 n = 2**27
-print(4-4*sum(f(r.random(n)**2+r.random(n)**2))/n)
+4-4*sum(f(r.random(n)**2+r.random(n)**2))/n
 </code></pre>
 This little block runs in 10 seconds or so on my laptop and consistently gives {%raw%}$$ \pi $${%endraw%} accurate to three decimal places. Not too shabby for the most simplistic method available.
