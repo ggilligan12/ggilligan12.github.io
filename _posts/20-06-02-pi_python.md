@@ -3,7 +3,7 @@ title: "pi.py"
 image: "assets/images/monte-carlo.png"
 ---
 
-My concern with attempting to keep something resembling a blog is that it will inevitably die due to neglect. The obvious solution is to have something simple that obliges me to make some small regular contribution, no less often than once a month. My idea is programatically calculating {%raw%}$$ \pi $${%endraw%}. Once a month, always in a different way, always with a different language.
+My concern with attempting to keep something resembling a blog is that it will inevitably die due to neglect. The obvious solution is to have something simple that obliges me to make some small regular contribution, no less often than once a month. I'm going with programatically calculating {%raw%}$$ \pi $${%endraw%}. Once a month, always in a different way, always with a different language. This will start fairly trivially, though I envision it getting fun.
 
 I'll begin with Python, and one of the most intuitive methods of calculating {%raw%}$$ \pi $${%endraw%}: a basic monte-carlo estimate. The intuition is illustrated with the graphic above, draw a quarter circle of radius 1 inside a square of side length 1. Then start dropping points at random inside the square. The probability of a point falling inside the quarter circle is {%raw%}$$\pi/4$${%endraw%}. Therefore if we drop a large number of points {%raw%}$$ n $${%endraw%}, we would expect {%raw%}$$ n\pi/4 $${%endraw%} points to fall within the circle, and {%raw%}$$ n(1-\pi/4) $${%endraw%} to fall beyond it.
 
