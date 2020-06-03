@@ -25,7 +25,7 @@ $${%endraw%}
 giving us an expression for {%raw%}$$ \pi $${%endraw%} of:
 <div text-align: center>
 {%raw%}$$
-\pi \approx  4-\frac{4\sum_{i=1}^n \left\lfloor x_i^2+y_i^2 \right\rfloor}{n}
+\pi \approx  4-4\frac{\sum_{i=1}^n \left\lfloor x_i^2+y_i^2 \right\rfloor}{n}
 $${%endraw%}
 </div>
 Thanks to some nice vectorisation from<code>numpy</code>this can be written very succinctly:
