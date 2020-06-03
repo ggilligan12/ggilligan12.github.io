@@ -28,7 +28,7 @@ giving us an expression for {%raw%}$$ \pi $${%endraw%} of:
 \pi \approx  4-4\frac{\sum_{i=1}^n \left\lfloor x_i^2+y_i^2 \right\rfloor}{n}
 $${%endraw%}
 </div>
-Thanks to some nice vectorisation from<code>numpy</code>this can be written very succinctly:
+Thanks to some nice vectorisation from <code>numpy</code> this can be written very succinctly:
 <pre><code>from numpy import floor as f, random as r
 n = 2**27
 4-4*sum(f(r.random(n)**2+r.random(n)**2))/n
