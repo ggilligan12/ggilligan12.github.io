@@ -39,14 +39,14 @@ nav-menu: true
                 <header class="major">
                     <h2>Hack Harvard '18</h2>
                 </header>
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+                <p>Here my team had the idea of putting the hexagonal 'I Demoed' stickers you earn for presenting your work at an MLH hackathon on a blockchain, and framing it in a frontend hacker profile/social network.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button next">Hex Ledger</a></li>
                 </ul>
             </div>
         </div>
         <a href="generic.html" class="image">
-            <img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+            <img src="assets/images/hackathons/harvard_prize.jpg" alt="" data-position="center center" />
         </a>
     </section>
     <section> <!-- Oxford Hack '17 -->
@@ -55,14 +55,14 @@ nav-menu: true
                 <header class="major">
                     <h2>Oxford Hack '17</h2>
                 </header>
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+                <p>My team decided it was past time we jumped on the bandwagon of making things that really not need be connected to the internet connected to the internet. Presenting IOTea, an automatic web app controlled loose leaf tea brewing device.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button next">IOTea</a></li>
                 </ul>
             </div>
         </div>
         <a href="generic.html" class="image">
-            <img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+            <img src="assets/images/hackathons/iotea.png" alt="" data-position="center center" />
         </a>
     </section>
 </section>
