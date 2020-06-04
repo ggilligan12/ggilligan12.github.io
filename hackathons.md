@@ -1,18 +1,22 @@
 ---
 title: Hackathons
-layout: post
+layout: landing
 image: assets/images/hackathons/laptop_stickers.jpg
 nav-menu: true
 ---
 
-Hackathons are marathon technical building events. As part of a team of 4 you frantically read, research and code for 24 hours straight, in an effort to produce a 'hack', a bodged together crummy proof of concept that depending on the execution will either make people go: "holy cow you made that in 24 hours!?" or "wow... you spent 24 hours on <i>that</i>?"
-
-I've attended a few hackathons in the last 3 years. Needless to say not all went well, but I don't regret the time spent doing any. Below is a showcase of 3 that were particularly memorable and had complete outcomes.
 
 <div id="main">
 
+<section id="intro">
+	<div class="inner">
+		<p>Hackathons are marathon technical building events. As part of a team of 4 you frantically read, research and code for 24 hours straight, in an effort to produce a 'hack', a bodged together crummy proof of concept that depending on the execution will either make people go: "holy cow you made that in 24 hours!?" or "wow... you spent 24 hours on <i>that</i>?"
+        I've attended a few hackathons in the last 3 years. Needless to say not all went well, but I don't regret the time spent doing any. Below is a showcase of 3 that were particularly memorable and had complete outcomes.</p>
+	</div>
+</section>
+
 <!-- Oxford Hack '19 -->
-<section id="one" class="spotlights">
+<section id="hacks" class="spotlights">
     <section>
         <div class="content">
             <div class="inner">
