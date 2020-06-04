@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Hackathons
-description:
-image: assets/images/laptop_stickers.jpg
+layout: post
+image: assets/images/hackathons/laptop_stickers.jpg
 nav-menu: true
 ---
 
