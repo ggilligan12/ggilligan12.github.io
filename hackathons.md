@@ -30,7 +30,7 @@ nav-menu: true
             </div>
         </div>
         <a href="generic.html" class="image">
-            <img src="assets/images/hackathons/lofi_girl.jpeg" alt="" data-position="center center" />
+            <img src="assets/images/hackathons/lofi_girl_square.jpeg" alt="" data-position="center center" />
         </a>
     </section>
     <section> <!-- Hack Harvard '18 -->
