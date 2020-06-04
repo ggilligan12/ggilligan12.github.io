@@ -15,9 +15,8 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Oxford Hack '19 -->
 <section id="hacks" class="spotlights">
-    <section>
+    <section> <!-- Oxford Hack '19 -->
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -39,7 +38,7 @@ nav-menu: true
                 <header class="major">
                     <h2>Hack Harvard '18</h2>
                 </header>
-                <p>Here my team had the idea of putting the hexagonal 'I Demoed' stickers you earn for presenting your work at an MLH hackathon on a blockchain, and framing it in a frontend hacker profile/social network.</p>
+                <p>Here our team had the idea of putting the hexagonal 'I Demoed' stickers you earn for presenting your work at an MLH hackathon on a blockchain, and framing it in a frontend hacker profile/social network.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button next">Hex Ledger</a></li>
                 </ul>
@@ -55,7 +54,7 @@ nav-menu: true
                 <header class="major">
                     <h2>Oxford Hack '17</h2>
                 </header>
-                <p>My team decided it was past time we jumped on the bandwagon of making things that really not need be connected to the internet connected to the internet. Presenting IOTea, an automatic web app controlled loose leaf tea brewing device.</p>
+                <p>Our team connected something to the internet that really didn't need to be connected to the internet. Presenting IOTea, an automatic web app controlled loose leaf tea brewing device.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button next">IOTea</a></li>
                 </ul>
