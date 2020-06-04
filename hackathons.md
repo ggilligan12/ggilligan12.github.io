@@ -9,6 +9,8 @@ Hackathons are marathon technical building events. As part of a team of 4 you fr
 
 I've attended a few hackathons in the last 3 years. Needless to say not all went well, but I don't regret the time spent doing any. Below is a showcase of 3 that were particularly memorable and had complete outcomes.
 
+<div id="main">
+
 <!-- Oxford Hack '19 -->
 <section id="one" class="spotlights">
     <section>
@@ -17,66 +19,48 @@ I've attended a few hackathons in the last 3 years. Needless to say not all went
                 <header class="major">
                     <h2>Oxford Hack '19</h2>
                 </header>
-            </div>
-        </div>
-        <a href="generic.html" class="image">
-            <img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-        </a>
-        <div class="content">
-            <div class="inner">
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+                <p>This was a fun hack. The objective was to produce a system that could procedurally generate Lo-Fi Hip-Hop Beats to Study/Relax/Hack to. Naturally we called it Lo-Fire.</p>
                 <ul class="actions">
-                    <li><a href="generic.html" class="button">Lo-Fire</a></li>
+                    <li><a href="generic.html" class="button next">Lo-Fire</a></li>
                 </ul>
             </div>
         </div>
-    <section>
-</section>
-
-<!-- Hack Harvard '18 -->
-<section id="two" class="spotlights">
-    <section>
+        <a href="generic.html" class="image">
+            <img src="assets/images/hackathons/lofi_girl.jpeg" alt="" data-position="center center" />
+        </a>
+    </section>
+    <section> <!-- Hack Harvard '18 -->
         <div class="content">
             <div class="inner">
                 <header class="major">
                     <h2>Hack Harvard '18</h2>
                 </header>
-            </div>
-        </div>
-        <a href="generic.html" class="image">
-            <img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-        </a>
-        <div class="content">
-            <div class="inner">
                 <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button next">Hex Ledger</a></li>
                 </ul>
             </div>
         </div>
-    <section>
-</section>
-
-<!-- Oxford Hack '17 -->
-<section id="three" class="spotlights">
-    <section>
+        <a href="generic.html" class="image">
+            <img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+        </a>
+    </section>
+    <section> <!-- Oxford Hack '17 -->
         <div class="content">
             <div class="inner">
                 <header class="major">
                     <h2>Oxford Hack '17</h2>
                 </header>
-            </div>
-        </div>
-        <a href="generic.html" class="image">
-            <img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-        </a>
-        <div class="content">
-            <div class="inner">
                 <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button next">IOTea</a></li>
                 </ul>
             </div>
         </div>
-    <section>
+        <a href="generic.html" class="image">
+            <img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+        </a>
+    </section>
 </section>
+
+</div>
