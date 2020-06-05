@@ -1,6 +1,7 @@
 ---
 title: "pi.py"
 image: "assets/images/posts/pi_20-06_monte-carlo.png"
+latex: "yesPlz"
 ---
 
 My concern with attempting to keep something resembling a blog is that it will inevitably die due to neglect. The obvious solution is to have something simple that obliges me to make some small regular contribution, no less often than once a month. I'm going with programatically calculating {%raw%}$$ \pi $${%endraw%}. Once a month, always in a different way, always with a different language. This will start fairly trivially, though I envision it getting fun.
