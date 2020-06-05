@@ -32,9 +32,11 @@ MathJax.Hub.Config({
 <!-- One -->
 <section id="one">
 	<div class="inner">
+		{% if page.back_button %}
 		<ul class="actions">
-			<li><a href="../hackathons" class="button back">Hackathons</a></li>
+			<li><a href="../hackathons" class="button back">{{ page.back_button }}</a></li>
 		</ul>
+		{% endif %}
 		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
