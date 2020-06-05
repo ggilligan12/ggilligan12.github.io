@@ -28,7 +28,7 @@ nav-menu: true
                 </ul>
             </div>
         </div>
-        <a href="generic.html" class="image">
+        <a class="image">
             <img src="../assets/images/hackathons/lofi_girl_square.jpeg" alt="" data-position="center center" />
         </a>
     </section>
@@ -44,7 +44,7 @@ nav-menu: true
                 </ul>
             </div>
         </div>
-        <a href="generic.html" class="image">
+        <a class="image">
             <img src="../assets/images/hackathons/harvard_prize.jpg" alt="" data-position="center center" />
         </a>
     </section>
@@ -60,7 +60,7 @@ nav-menu: true
                 </ul>
             </div>
         </div>
-        <a href="generic.html" class="image">
+        <a class="image">
             <img src="../assets/images/hackathons/iotea.png" alt="" data-position="center center" />
         </a>
     </section>
