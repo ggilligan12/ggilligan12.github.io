@@ -4,7 +4,7 @@ subtitle:
 email: ggilligan12@gmail.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gilly.tech"# the base hostname & protocol for your site
+url: "https://gilly.tech" # the base hostname & protocol for your site
 author:
 street_address:
 city:
