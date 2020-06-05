@@ -9,5 +9,5 @@ In fall 2018 our team was successful in applying to Hack Harvard, and travelled 
 <section>
     <span class="image main"><img src="../assets/images/hackathons/hex_ledger_frontend.png" /></span>
 </section>
-<br><br>
+
 Our idea was a legitimate and novel use case for a blockchain (unlike the vast majority of things people seem to be trying to put on blockchains). Unfortunately, though the judges were impressed with the technicality of our hack, they didn't understand what we had made or why. Though this was disappointing, it had an amusing redeeming quality. The judges determined that ours was the "Most Useless Hack", and so out of 200 teams we joined 8 or so others in being official prizewinners. The code can be found <a href="https://gitlab.com/teambrewlabs/cryptohexes">here</a>. We consider this an absolute win.
