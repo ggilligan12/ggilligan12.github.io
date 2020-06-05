@@ -24,7 +24,7 @@ nav-menu: true
                 </header>
                 <p>The objective was to produce a system that could procedurally generate Lo-Fi Hip-Hop Beats to Study/Relax/Hack to. Naturally we called it Lo-Fire. This was a fun hack.</p>
                 <ul class="actions">
-                    <li><a href="{{ site.baseurl }}lofire" class="button next">Lo-Fire</a></li>
+                    <li><a href='{{ page.url | remove: ".html" }}/lofire' class="button next">Lo-Fire</a></li>
                 </ul>
             </div>
         </div>
@@ -40,7 +40,7 @@ nav-menu: true
                 </header>
                 <p>Here our team had the idea of putting the hexagonal 'I Demoed' stickers you earn for presenting your work at an MLH hackathon on a blockchain, and framing it in a frontend hacker profile/social network.</p>
                 <ul class="actions">
-                    <li><a href="{{ site.baseurl }}hexledger" class="button next">Hex Ledger</a></li>
+                    <li><a href='{{ page.url | remove: ".html" }}/hexledger' class="button next">Hex Ledger</a></li>
                 </ul>
             </div>
         </div>
@@ -56,7 +56,7 @@ nav-menu: true
                 </header>
                 <p>Our team connected something to the internet that really didn't need to be connected to the internet. Presenting IOTea, an automatic web app controlled loose leaf tea brewing device.</p>
                 <ul class="actions">
-                    <li><a href="{{ site.baseurl }}iotea" class="button next">IOTea</a></li>
+                    <li><a href='{{ page.url | remove: ".html" }}/iotea' class="button next">IOTea</a></li>
                 </ul>
             </div>
         </div>
