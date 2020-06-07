@@ -2,7 +2,6 @@
 layout: post
 title: CV
 nav-menu: true
-image:
 ---
 
 <div class='iframe-container'>
