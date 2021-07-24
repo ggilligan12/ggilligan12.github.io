@@ -8,7 +8,7 @@ My concern with attempting to keep something resembling a blog is that it will i
 
 I'll begin with Python, and one of the most intuitive methods of calculating {%raw%}$$ \pi $${%endraw%}: a basic monte-carlo estimate. The intuition is illustrated with the graphic above, draw a quarter circle of radius 1 inside a square of side length 1. Then start dropping points at random inside the square. The probability of a point falling inside the quarter circle is {%raw%}$$\pi/4$${%endraw%}. Therefore if we drop a large number of points {%raw%}$$ n $${%endraw%}, we would expect {%raw%}$$ n\pi/4 $${%endraw%} points to fall within the circle, and {%raw%}$$ n(1-\pi/4) $${%endraw%} to fall beyond it.
 
-Given a point {%raw%}$$p$${%endraw%} with coordinates {%raw%}$$ (x,y) $${%endraw%} on the unit square:
+Given a point <script markdown="0" type="math/tex">p</script> with coordinates {%raw%}$$ (x,y) $${%endraw%} on the unit square:
 <div markdown="0" style="text-align:center">{%raw%}$$
 \left\lfloor x^2+y^2 \right\rfloor = \begin{cases}
     0\textrm{ if $p$ is inside the circle} \\
