@@ -19,7 +19,7 @@ Therefore if we choose a large enough <script markdown="0" type="math/tex">n</sc
 <div markdown="0" style="text-align:center">{%raw%}$$
 \sum_{i=1}^n \left\lfloor x_i^2+y_i^2 \right\rfloor \approx  n\left(1-\frac{\pi}{4}\right)
 $${%endraw%}</div>
-giving us an expression for {%raw%}$$ \pi $${%endraw%} of:
+giving us an expression for <script markdown="0" type="math/tex">\pi</script> of:
 <div markdown="0" style="text-align:center">{%raw%}$$
 \pi \approx  4-4\frac{\sum_{i=1}^n \left\lfloor x_i^2+y_i^2 \right\rfloor}{n}
 $${%endraw%}</div>
