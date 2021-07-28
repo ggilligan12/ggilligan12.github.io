@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hex Ledger
+title: IOTea
 image: "assets/images/hackathons/iotea.png"
 ---
 My first hackathon. One of my friends at Oxford has a notable obsession with loose leaf tea, and pushed the idea of an automatic loose leaf tea brewing system controlled via web app. It was too brilliant not to have a crack at it. The day before the hack my friend and I went shopping/scavenging for things we would need.
